@@ -23,6 +23,7 @@ All sample logic is designed so that bools use `True` for `On` and `False` for `
 `Custom`: *Niche logic that was probably requested by someone*
 
 ---
+
 [https://templates.sleightly.dev](https://templates.sleightly.dev)
 
 ---
