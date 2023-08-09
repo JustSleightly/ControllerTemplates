@@ -24,6 +24,6 @@ All sample logic is designed so that bools use `True` for `On` and `False` for `
 
 ---
 
-[https://templates.sleightly.dev](https://templates.sleightly.dev)
+### [Download Here](https://templates.sleightly.dev)
 
 ---
