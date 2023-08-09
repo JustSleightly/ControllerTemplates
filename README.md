@@ -2,7 +2,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/JustSleightly/ControllerTemplates)](https://github.com/JustSleightly/ControllerTemplates/stargazers) [![GitHub Tags](https://img.shields.io/github/tag/JustSleightly/ControllerTemplates)](https://github.com/JustSleightly/ControllerTemplates/tags) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JustSleightly/ControllerTemplates?include_prereleases)](https://github.com/JustSleightly/ControllerTemplates/releases) [![GitHub issues](https://img.shields.io/github/issues/JustSleightly/ControllerTemplates)](https://github.com/JustSleightly/ControllerTemplates/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/JustSleightly/ControllerTemplates)](https://github.com/JustSleightly/ControllerTemplates/commits/main) [![Discord](https://img.shields.io/discord/780192344800362506)](https://discord.sleightly.dev/)
 
-
 All sample logic below is designed to work regardless of your Write Defaults settings unless otherwise specified, and thus should be ignored in any downloaded samples. Please exercise due diligence to use whichever one is compatible with your Avatar, as well as mask any layers as needed.
 
 All sample logic is designed so that bools use `True` for `On` and `False` for `Off`. Arrow indicators in your Expressions Menu represent True.
@@ -25,3 +24,5 @@ All sample logic is designed so that bools use `True` for `On` and `False` for `
 
 ---
 [https://templates.sleightly.dev](https://templates.sleightly.dev)
+
+---
