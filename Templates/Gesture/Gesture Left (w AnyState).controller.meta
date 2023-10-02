@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 324abec8dfbb3334f914783406cd6a88
+labels:
+- Template:JustSleightly/Gesture/Left%Hand%(w%AnyState)
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
