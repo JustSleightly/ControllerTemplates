@@ -32,7 +32,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: SmoothFloat
+    attribute: Output
     path: 
     classID: 95
     script: {fileID: 0}
@@ -46,7 +46,7 @@ AnimationClip:
     genericBindings:
     - serializedVersion: 2
       path: 0
-      attribute: 370509544
+      attribute: 3413250472
       script: {fileID: 0}
       typeID: 95
       customType: 0
@@ -88,7 +88,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: SmoothFloat
+    attribute: Output
     path: 
     classID: 95
     script: {fileID: 0}
