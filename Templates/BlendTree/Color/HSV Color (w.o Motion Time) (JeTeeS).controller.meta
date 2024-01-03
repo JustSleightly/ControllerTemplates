@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: d26f0d3673c04494fbd96ee037733824
+guid: 20f19d2f2b892f74a89f615d25803ef4
 labels:
-- Template:JustSleightly/VRC/LipSync%(Viseme%Parameter)
+- Template:JustSleightly/Blend/HSV%Color%(w.o%Motion%Time)%(JeTeeS)
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000
